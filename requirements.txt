@@ -1,0 +1,5 @@
+torch
+transformers
+evaluate
+rouge_score
+pytorch_warmup # https://tony-y.github.io/pytorch_warmup/manual_warmup.html
